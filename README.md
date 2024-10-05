@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ca234246-f886-4101-8754-2c552226f785)
+![Screenshot 2024-10-04 101515](https://github.com/user-attachments/assets/8690ad6e-5d34-41fc-bba9-3801d49082d2)
+
 
 # Shared Economy Tool Rental Platform
 
