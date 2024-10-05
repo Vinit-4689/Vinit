@@ -1,5 +1,3 @@
-### Deployed smartcontract address: 0x36ccdc0763b325a7ea25c83f787f0c1243ad3f6d05558a3b2254df8c5b0f002a
-
 ### Screenshot: ![alt text](image.png)
 
 # Shared Economy Tool Rental Platform
